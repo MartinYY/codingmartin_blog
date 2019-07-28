@@ -1,0 +1,31 @@
+{
+  "name": "blog_vue",
+  "version": "1.0.0",
+  "description": "勿在浮沙筑高台",
+  "main": "index.js",
+  "keywords": [],
+  "dependencies": {
+    "@vuepress/plugin-back-to-top": "^1.0.0-alpha.0",
+    "@vuepress/plugin-google-analytics": "^1.0.0-alpha.0",
+    "@vuepress/plugin-pwa": "^1.0.0-alpha.0",
+    "vuepress": "^1.0.0-alpha.37",
+    "vuepress-plugin-comment": "^0.7.0-beta.1"
+  },
+  "scripts": {
+    "dev": "vuepress dev .",
+    "build": "vuepress build ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinYY/martinyy.github.io.git"
+  },
+  "author": "martin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MartinYY/martinyy.github.io/issues"
+  },
+  "homepage": "https://github.com/MartinYY/martinyy.github.io#readme",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.0.0-rc.1"
+  }
+}
