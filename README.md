@@ -4,8 +4,10 @@ heroImage: https://martin-blog-oss.oss-cn-beijing.aliyuncs.com/logo.png
 actionText: 进入导航
 actionLink: /guide/
 comment: false
-footer: MIT Licensed | Copyright © 2019 超级码丁
+footer: MIT Licensed | Copyright © 2020 超级码丁
 ---
 ## ✏️ 博客小记
-博客算是新搞的吧（之前用的hexo，现在换成vuepress的），也没有太多的内容，当然后面会慢慢写，之前写的感觉不太好，现在当作重新开始，至于写的东西可能会比较杂，需要学习的还很多很多，加油吧！
+欢迎来到超级码丁的个人博客~
+有空写写，学到的、碰到的、用到的，记录下来，加深印象
+对你有所帮助，不胜荣幸
 
