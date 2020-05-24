@@ -12,15 +12,15 @@ module.exports = {
     {
       text: 'Java基础',
       items: [
-        { text: 'java集合', link: 'passages/20181001-集合框架/' }
+        { text: '集合', link: 'passages/1.0-集合框架/' }
       ]
     },
-    {
-      text: '了解更多',
-      items: [
-        { text: '友情链接', link: '/friends/' },
-        { text: '网站信息', link: '/about/' },
-      ]
-    }
+    // {
+    //   text: '了解更多',
+    //   items: [
+    //     { text: '友情链接', link: '/friends/' },
+    //     { text: '网站信息', link: '/about/' },
+    //   ]
+    // }
   ]
 }

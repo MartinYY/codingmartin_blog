@@ -1,7 +1,7 @@
 {
-  "name": "blog_vue",
+  "name": "martin_blog",
   "version": "1.0.0",
-  "description": "勿在浮沙筑高台",
+  "description": "be the best version of yourself",
   "main": "index.js",
   "keywords": [],
   "dependencies": {
@@ -21,10 +21,6 @@
   },
   "author": "martin",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/MartinYY/martinyy.github.io/issues"
-  },
-  "homepage": "https://github.com/MartinYY/martinyy.github.io#readme",
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.0.0-rc.1"
   }

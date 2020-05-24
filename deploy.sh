@@ -15,7 +15,7 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git push -f git@github.com:MartinYY/codingmartin_blog.git master:gh-pages
+git push -f git@47.105.73.133:/home/git/blog.git master
 
 rm -rf .vuepress/dist
 

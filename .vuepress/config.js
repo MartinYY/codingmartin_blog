@@ -7,7 +7,7 @@ const {
     title: '超级码丁',
     description: 'Be the best version of you.',
     head: [
-      ['link', { rel: 'icon', href: '/head.png' }]
+      ['link', { rel: 'icon', href: 'http://martin-blog-oss.oss-cn-beijing.aliyuncs.com/head.png?OSSAccessKeyId=LTAI4FpcWrdHLTxhjmxqwdTE&Expires=1573834231&Signature=G477gh2c3k%2FzSJWUoU%2BDTwjfTCQ%3D' }]
     ],
     markdown: mdConf,
     themeConfig: themeConf,
